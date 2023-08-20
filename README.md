@@ -2,7 +2,7 @@
 A  bot that allows users to compile Python script on Discord
 
 
-#Installation
+# Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies.
 
 ```bash
